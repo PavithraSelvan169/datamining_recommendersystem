@@ -2,7 +2,7 @@
 # Movie Recommendation System
 
 **Author:** Pavithra Selvan  
-**Course:** ITCS 6162 - Data Mining  
+**Course:** ITIS 6162 - Data Mining  
 **Assignment:** Programming Assignment – Recommendation Algorithms  
 **Repository Name:** datamining_recommendersystem
 ---
@@ -40,15 +40,14 @@ This project implements a movie recommendation system using multiple approaches:
 ---
 
 ##  Technologies Used
+Language: Python
 
 | Tool/Library       | Purpose                        |
 |--------------------|--------------------------------|
 | `pandas`           | Data manipulation              |
 | `numpy`            | Numerical operations           |
 | `scikit-learn`     | Cosine similarity              |
-| `networkx`         | Graph modeling and traversal   |
 | `random`           | Random walk selection          |
-| `matplotlib`       | (Optional) Visualization       |
 
 ---
 
@@ -64,11 +63,11 @@ This project implements a movie recommendation system using multiple approaches:
 
 - `DataMining_Programming_Assignment_pavithra.ipynb` — Main Jupyter notebook
 - `README.md` — You’re here
-- `data/` — Raw or preprocessed rating data
+- `Data/` — Raw data and preprocessed csv files
 
 ---
 
-## How to Run
+## How to Use
 
 1. Clone the repo:
    ```bash
